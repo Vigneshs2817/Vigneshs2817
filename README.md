@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Vignesh S
-- 👀 I’m interested in Full Stack Developer.
-- 🌱 I’m currently learning Frontend developer.
-- 📫 How to reach me vigneshsekar2817@gmail.com
-- 😄 Pronouns: Vicky
-- ⚡ Fun fact: No fun ,Just Gun 😄
+
